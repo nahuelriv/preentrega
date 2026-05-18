@@ -1,6 +1,6 @@
 # Instrucciones de Uso
 
-El programa se maneja completamente desde la terminal con Node.js podes ejecutar los siguientes comandos:
+El programa se maneja completamente desde la terminal con Node.js y podes ejecutar los siguientes comandos:
 
 **1. Consultar todos los productos**
 "npm run start GET products"
